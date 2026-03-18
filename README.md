@@ -24,7 +24,7 @@ Supports basic arithmetic operations with a clean UI.
 
 # Author
 
-- **Faiz Khalid**
+**Faiz Khalid**
 
   
 
